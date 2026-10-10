@@ -1,5 +1,0 @@
-pip install fastapi uvicorn sqlalchemy pydantic python-jose[cryptography] passlib[bcrypt] bcrypt openai google-generativeai groq anthropic sentence-transformers faiss-cpu chromadb tiktoken pypdf pdfminer.six python-docx pandas openpyxl pillow pytesseract google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client celery redis requests numpy scipy python-dotenv tqdm transformers spacy nltk httpx pytest pytest-asyncio loguru prometheus-client
-
-pip install fastapi uvicorn
-pip install sqlalchemy
-pip install pydantic
