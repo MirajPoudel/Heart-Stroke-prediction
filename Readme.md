@@ -50,13 +50,13 @@ Follow these steps to run the application locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/MirajPoudel/Heart-Stroke-prediction.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd YOUR_PROJECT_FOLDER
+cd Heart-Stroke-prediction
 ```
 
 ### 3. Create a Virtual Environment (Recommended)
